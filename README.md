@@ -5,11 +5,11 @@ A python library to compare two files to each other using an md5 checksum.
 This library has no dependencies outside the standard python 3.X. It was developed under python 3.10 but may work with 
 previous versions of python 3.
 
-## Installation
+### Installation
 
 Download the library and make sure it exists somewhere on your PYTHONPATH.
 
-## Usage
+### Usage
 
 
 Import the module
